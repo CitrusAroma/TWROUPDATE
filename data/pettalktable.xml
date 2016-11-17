@@ -7546,6 +7546,7 @@
 		<perfor_3>	想吐!	</perfor_3>
 		<perfor_s>	...	</perfor_s>
 	</so_full>
+</IMP>
 	
 <TIKBALANG>				
 	<hungry>			
@@ -7780,10 +7781,9 @@
 			<perfor_s>	嗚…… 暈頭轉向的…… 是全新的感覺。</perfor_s>
 			<perfor_s>	混沌!!!! 混沌要來臨了!!!!!	</perfor_s>
 		</so_full>			
-					
 </scatleton>						
 
 
-</IMP>
+
 
 </monster_talk_table>
