@@ -1,3 +1,4 @@
+
 --==========================================
 -- filename : WeaponName_F.lub
 -- author : hjlee
@@ -8,7 +9,7 @@
 
 --===============================================
 -- function : ReqWeaponName
--- descript : Weapon Data ???? Return
+-- descript : Weapon Data 파일명을 Return
 -- returns : str
 --===============================================
 
@@ -29,7 +30,7 @@ end
 
 --===============================================
 -- function : ReqWeaponNameByClassNum
--- descript : Weapon Data ???? Return
+-- descript : Weapon Data 파일명을 Return
 -- returns : str
 --===============================================
 
@@ -50,7 +51,7 @@ end
 
 --===============================================
 -- function : GetRealWeaponId
--- descript : Weapon_IDs ? 30? ??? ??? Id ? ???? WeaponId ??
+-- descript : Weapon_IDs 에 30번 이후로 확장된 Id 에 대응되는 WeaponId 리턴
 -- returns : int
 --===============================================
 
@@ -71,7 +72,7 @@ end
 
 --===============================================
 -- function : ReqWeaponHitWaveName
--- descript : Weapon Hit Wave ???? Return
+-- descript : Weapon Hit Wave 파일명을 Return
 -- returns : str
 --===============================================
 
@@ -91,7 +92,7 @@ end
 
 --===============================================
 -- function : IsItemUsingArrow
--- descript : ??? ???? ??? ???
+-- descript : 화살을 사용하는 아이템 리스트
 -- returns : bool
 --===============================================
 
