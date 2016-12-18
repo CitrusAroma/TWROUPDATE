@@ -975,3 +975,6 @@ ecltd03_b.rsw#bgm\\154.mp3#
 //시계탑 나이트메어
 c_tower2_.rsw#bgm\\60.mp3#
 c_tower3_.rsw#bgm\\60.mp3#
+
+//MD 클랜
+1@ffp.rsw#bgm\\72.mp3#

@@ -1781,3 +1781,9 @@ lasa_dun_q.rsw#龍巢穴#
 //鐘塔夢魘副本
 c_tower2_.rsw#夢魘密穴鐘塔 2樓#
 c_tower3_.rsw#夢魘密穴鐘塔 3樓#
+
+
+//20161213 Contents Update
+
+//代表公會 MD
+1@ffp.rsw#餘孽的大本營#
