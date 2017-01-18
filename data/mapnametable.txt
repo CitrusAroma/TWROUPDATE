@@ -1787,3 +1787,14 @@ c_tower3_.rsw#夢魘密穴鐘塔 3樓#
 
 //代表公會 MD
 1@ffp.rsw#餘孽的大本營#
+
+// 新種族都蘭羅札納村
+lasagna.rsw#港口都市 羅札納#
+lasa_fild01.rsw#羅比奧平原崗亭#
+lasa_fild02.rsw#羅比奧森林#
+lasa_dun01.rsw#龍巢穴#
+lasa_dun02.rsw#龍巢穴#
+lasa_dun03.rsw#龍巢穴#
+conch_in.rsw#康-奇麗娜號內部#
+lasa_in01.rsw#羅札納內部#
+lasa_dun_q.rsw#龍巢穴#

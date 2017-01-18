@@ -1,3 +1,10 @@
+
+//도람족관련 복사맵 요청 2015.05.26(말랑도 내부복사)
+
+conch_in.rsw#
+lasa_in01.rsw#
+
+
 //사크라이 12.08.27
 
 1@gef_in.rsw#
@@ -39,7 +46,7 @@ dew_in01.rsw#
 dic_in01.rsw#
 bra_in01.rsw#
 s_atelier.rsw#
-moc_para01.rsw#
+
 job3_guil01.rsw#
 job3_guil02.rsw#
 man_in01.rsw#
@@ -126,3 +133,9 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
+
+//본섭 EP.15.2 베루스  2013.12.23
+
+un_bunker.rsw#
+un_bk_q.rsw#
+un_myst.rsw#
